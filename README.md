@@ -9,7 +9,7 @@ Initially, the application’s web server was accessible on a public subnet, whe
 
 Additionally, concerns have been raised about model performance, as predictions show a tendency to classify everything as pneumonia. Your team is now tasked with automating this setup, sending accurate metrics to Prometheus and Grafana, and retraining the model to reduce bias in predictions and align with the updated system architecture shown below. 
 
-![Screenshot 2024-10-26 130236](https://github.com/user-attachments/assets/33328621-4d3b-4234-aafa-2624e5f66ced)
+![Screenshot 2024-10-26 130236](https://github.com/user-attachments/assets/b914b6ef-8ccf-40a8-b9b9-7273ee88673a)
 
 Your role is to set up the automated CI/CD and MLOps pipelines, resolve infrastructure issues, and enhance model accuracy.
 
